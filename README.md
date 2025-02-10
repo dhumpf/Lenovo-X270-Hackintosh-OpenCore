@@ -1,7 +1,5 @@
-# I DON'T HAVE THIS LAPTOP, SO THIS REPO WILL BE DISCONTINUED
-
-# Lenovo-X270-Hackintosh-Ventura-OpenCore-0.9.9
-Please make sure the SMBIOS is MacBookPro15,2 when installing and updating to Sonoma 
+# Lenovo-X270-Hackintosh-Sequoia-OpenCore-1.0.2
+Please make sure the SMBIOS is MacBookPro15,2 when installing and updating to Sequoia 
 #
 This repo contains the files and scripts to install macOS on the Lenovo X270 20K5
 You need to patch your systems own DSDT 
@@ -14,14 +12,14 @@ You need to patch your systems own DSDT
 - [x] macOS 13.0
 - [x] macOS 13.4
 - [x] macOS 14.3.1
-
+- [ ] macOS 15.x - work in progress
 
 # Laptop's Hardware
 - <b>Model</b>: Thinkpad X270
 - <b>CPU</b>: Intel(R) Core(TM) i5-6300U CPU @ 2.50GHz
 - <b>GPU</b>: Intel HD Graphics 520
-- <b>RAM</b>: 16 GB 2133MHz DDR4
-- <b>Screen</b>: 12,4" (1366x768)
+- <b>RAM</b>: 32 GB 2133MHz DDR4
+- <b>Screen</b>: 12,4" (1920x1080)
 - <b>Wi-Fi</b>: AC-8260
 - <b>Camera</b>: 720p
 - <b>Battery</b>: 3-cell with inside battery 
