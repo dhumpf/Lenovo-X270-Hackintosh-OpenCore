@@ -1,4 +1,4 @@
-# Lenovo-X270-Hackintosh-Sequoia-OpenCore-1.0.2
+# Lenovo-X270-Hackintosh-Sequoia-OpenCore-1.0.3
 Please make sure the SMBIOS is MacBookPro15,2 when installing and updating to Sequoia 
 #
 This repo contains the files and scripts to install macOS on the Lenovo X270 20K5
